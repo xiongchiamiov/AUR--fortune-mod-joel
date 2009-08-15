@@ -5,6 +5,7 @@ pkgrel=1
 pkgdesc="fortune cookie file of Joel Spolsky quotes"
 arch=('i686' 'x86_64')
 url="http://www.shlomifish.org/humour/fortunes/joel-on-software"
+license=('GPL')
 depends=('fortune-mod')
 groups=('fortune-mods')
 source=('joel-on-software')
